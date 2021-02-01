@@ -15,7 +15,7 @@
     <repositories>
       <repository>
         <id>codeartifact</id>
-    <url>https://visualpath-704540814084.d.codeartifact.us-east-1.amazonaws.com/maven/vpro-delive-arti/</url>
+    <url>https://visualpath-704540814084.d.codeartifact.us-east-1.amazonaws.com/maven/Ashu-pro1-codearti/</url>
       </repository>
     </repositories>
   </profile>
@@ -27,7 +27,7 @@
   <mirror>
     <id>codeartifact</id>
     <name>visualpath--maven-central-store</name>
-    <url>https://visualpath-704540814084.d.codeartifact.us-east-1.amazonaws.com/maven/vpro-delive-arti/</url>
+    <url>https://visualpath-704540814084.d.codeartifact.us-east-1.amazonaws.com/maven/Ashu-pro1-codearti/</url>
     <mirrorOf>*</mirrorOf>
   </mirror>
 </mirrors>

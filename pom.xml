@@ -210,7 +210,7 @@
       <repository>
         <id>codeartifact</id>
         <name>codeartifact</name>
-    <url>https://visualpath-704540814084.d.codeartifact.us-east-1.amazonaws.com/maven/Ashu-pro1-codearti/</url>
+    <url>https://visualpath-704540814084.d.codeartifact.us-east-1.amazonaws.com/maven/artifact-reddy/</url>
       </repository>
     </repositories>
 </project>

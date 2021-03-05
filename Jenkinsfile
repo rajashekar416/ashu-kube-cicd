@@ -91,9 +91,6 @@ pipeline {
                    -Dsonar.jacoco.reportsPath=target/jacoco.exec'''
                 }
 
-                timeout(time: 10, unit: 'MINUTES') {
-                    waitForQualityGate abortPipeline: true
-                }
             }
         }
         stage('Kubernetes Deploy') {
